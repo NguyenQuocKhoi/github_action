@@ -6,8 +6,8 @@ function App() {
     <div className="App">
       <h1>Github Action</h1>
       <h2>Nhóm 16</h2>
-      <h2>20036191-Nguyễn Quốc Khôi</h2>
-      <h2>20030131-Phạm Chí Xuân</h2>
+      <h2>20036191 - Nguyễn Quốc Khôi</h2>
+      <h2>20030131 - Phạm Chí Xuân</h2>
       <h2>Xin chào mọi người</h2>
       {/* <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
