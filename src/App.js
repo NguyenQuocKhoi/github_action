@@ -9,7 +9,7 @@ function App() {
       <h2>Nhóm 16</h2>
       <h2>20036191 - Nguyễn Quốc Khôi</h2>
       <h2>20030131 - Phạm Chí Xuân</h2>
-      <h2>Xin chào mọi người nhé 123</h2>
+      <h2>Xin chào mọi người nhé 12345</h2>
       <img src={gitAc} className="GitAc-img" alt="image"/>
       {/* <img src={logo} className="App-logo" alt="logo" /> */}
       {/* <header className="App-header">
